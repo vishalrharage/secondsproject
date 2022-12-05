@@ -1,0 +1,14 @@
+.button {
+    width: 8.65rem;
+    height: 2.50rem;
+    background-color: #fff;
+    border-radius: 8px;
+    border: 1px solid #00c0f5;
+    font-size: 0.76rem;
+    color: #00c0f5;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    cursor: pointer;
+}
